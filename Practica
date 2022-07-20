@@ -1,0 +1,7 @@
+git  init
+git config --global user.name "nidia"
+git config --global user.email "nidiaroman0911Qgmail.com"
+git branch "moda" //sostenible
+ git checkout "sostenible" //sustentable
+ git merge  "modisteria"
+ 
